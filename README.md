@@ -158,3 +158,15 @@ for ( i in 'b'..'g') println(i)
 for ( i in 1..10 ) println(i)
 // 12345678910
 ```
+
+-----
+
+## Kotlin file
+
+Jika ingin menggunakan file kotlin harus ada fun `main`
+
+```kotlin
+fun main(args: Array<String>) {
+    println("Hello Anis")
+}
+```
